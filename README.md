@@ -44,7 +44,7 @@ You can view the live demo of the project by clicking the link below:
 ### 📞 Contact Information
  ##### For any inquiries or issues, please feel free to contact me:
   - Email: saikalyan20013@gmail.com
-  - LinkedIn: [Linkedin](https://www.linkedin.com/in/sai-kalyan-bursu-571454241/) 
+  - LinkedIn: [sai-kalyan-bursu-571454241](https://www.linkedin.com/in/sai-kalyan-bursu-571454241/) 
 
 ### 🔗 Links
  - [GitHub Repository](https://github.com/saikalyan2001/CodeAntAI-Frontend-Assignment)
