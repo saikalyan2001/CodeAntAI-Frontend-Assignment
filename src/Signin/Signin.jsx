@@ -6,7 +6,7 @@ const Signin = () => {
 
   return (
     <div className="bg-bg4 flex flex-col gap-8 items-center py-20 w-[720px]  mx-auto">
-      <div className="border border-solid border-br1 rounded-xl mx-auto h-[560px]">
+      <div className="border border-solid border-br1 rounded-xl mx-auto w-[100%] max-w-[95%] h-[560px] whitespace-nowrap">
         <div className="py-9 px-4 border border-solid border-b-br2 rounded-t-xl flex flex-col gap-5 items-center">
           <div className="lg:w-[210px] flex items-center gap-[11px] text-lg">
             <img src="/logo.png" alt="logo" />
