@@ -1,4 +1,4 @@
-# CODEANT AI - ## Frontend Developer Intern Assignment
+# CODEANT AI - Frontend Developer Intern Assignment
 
 ### 🚀 Overview
 
