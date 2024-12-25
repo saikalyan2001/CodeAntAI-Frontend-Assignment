@@ -1,8 +1,16 @@
-# React + Vite
+# CODEANT AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Frontend Developer Intern Assignment
 
-Currently, two official plugins are available:
+### 🚀 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##### Welcome to my solution for the Frontend Developer Intern Hiring Assignment at CodeAnt AI. This project is aimed at showcasing my skills in creating a responsive, clean, and maintainable frontend application using ReactJS, HTML, and CSS. The assignment involved building a frontend based on the provided Figma design.
+
+### 📋 Objective
+
+##### The main objective of this project is to:
+- Implement a frontend that accurately follows the Figma design provided by CodeAnt AI.
+- Use ReactJS, HTML, and CSS to build the components.
+- Ensure that the project is responsive and optimized for various screen sizes and devices.
+
+
